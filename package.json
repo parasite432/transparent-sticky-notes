@@ -1,0 +1,14 @@
+{
+  "name": "transparent-sticky-notes",
+  "version": "1.0.0",
+  "description": "this is a sticky not application",
+  "main": "main.js",
+  "scripts": {
+    "dev" : "electron ."
+  },
+  "author": "Jibin",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^22.0.2"
+  }
+}
